@@ -1,0 +1,50 @@
+[
+    {
+      "userID":1,
+      "picture": "./av1.png",
+      "name": "Forbes Lawrence",
+      "gender": "male",
+      "contact": "018xxxxxxxx",
+      "address": "Comilla,BD"
+    },
+    {
+      "userID":2,
+      "picture": "./av2.png",
+      "name": "Ruiz Underwood",
+      "gender": "male",
+      "contact": "018xxxxxxxx",
+      "address": "Comilla,BD"
+    },
+    {
+      "userID":3,
+      "picture": "./av3.png",
+      "name": "Lynn Ewing",
+      "gender": "male",
+      "contact": "018xxxxxxxx",
+      "address": "Comilla,BD"
+    },
+    {
+      "userID":4,
+      "picture": "./av4.png",
+      "name": "Hyde Avery",
+      "gender": "male",
+      "contact": "018xxxxxxxx",
+      "address": "Comilla,BD"
+    },
+    {
+      "userID":5,
+      "picture": "./av5.png",
+      "name": "Horn Bradford",
+      "gender": "male",
+      "contact": "018xxxxxxxx",
+      "address": "Comilla,BD"
+    },
+    {
+      "userID":6,
+      "picture": "./av6.png",
+      "name": "Augusta Mclaughlin",
+      "gender": "male",
+      "contact": "018xxxxxxxx",
+      "address": "Comilla,BD"
+    }
+  ]
