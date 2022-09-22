@@ -30,25 +30,12 @@ router.render = (req, res) => {
 
     }
 
-    // event fire needed for messages update
-
-
-    res.json(res.locals.data);
-}
-
-//response listener
-router.render = (req, res) => {
-
-    const path = req.path;
-    const method = req.method;
-
-
     if (path.includes("/messages") && (method === "POST")) {
         // emit socket event
-        console.log('message sent')
-        io.emit("message1", {
+        io.emit("message", {
             data: res.locals.data,
         });
+        console.log('message send')
 
     }
 
